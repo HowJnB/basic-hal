@@ -1,0 +1,9 @@
+#
+# Copyright (c) 2019 Howard JB
+#
+# See the LICENSE file.
+#
+
+.SILENT:
+.PHONY : install
+install: # nothing to do!
